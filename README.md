@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile!
 
-Para versão em português, clique (aqui)[https://github.com/mdiniz97/mdiniz97/blob/master/README-pt.md]
+Para versão em português, clique [aqui](https://github.com/mdiniz97/mdiniz97/blob/master/README-pt.md)
 
 # 🚀 About Me
 Hello, I'm Marcos, a Python developer passionate about turning ideas into reality through code. With over 6 years of experience in computer science, I dedicate myself to software development, always seeking to overcome challenges and create solutions that make a difference.
