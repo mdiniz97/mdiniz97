@@ -14,7 +14,7 @@ Hello, I'm Marcos, a Python developer passionate about turning ideas into realit
 - [ML with TensorFlow](https://linkedin.com/in/mdiniz97) - Specialization in Machine Learning with TensorFlow on Google Cloud Platform [Coursera - Google].
 - [Outstanding Performance Award](https://linkedin.com/in/mdiniz97) - Recognized for performance in the 3rd Quarter of 2019 [4Linux].
 
-## 🛠️ Key Skills
+## 🛠️ Skills
 
 - **Programming Languages:** Python, JavaScript, SQL.
 - **Frameworks and Libraries:** Django, Flask, FastAPI, Sklearn, TensorFlow, NumPy, Pandas.
