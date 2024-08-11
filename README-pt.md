@@ -3,10 +3,10 @@
 For english version, click [here](https://github.com/mdiniz97/mdiniz97).
 
 # 🚀 Sobre Mim
-Olá, eu sou Marcos, um desenvolvedor Python apaixonado por transformar ideias em realidade através do código. Com mais de 6 anos de experiência na área da computação, me dedico ao desenvolvimento de software, buscando sempre superar desafios e criar soluções que façam a diferença.
+Olá, eu sou Marcos, um desenvolvedor Python apaixonado por transformar ideias em realidade através do código. Com mais de 6 anos de experiência com programação, me dedico ao desenvolvimento de software e sistemas web, buscando sempre superar desafios e criar soluções que façam a diferença.
 
-- 🔭 Atualmente, estou focado em projetos **freelancer**, trabalhando intensamente para criar soluções únicas e inovadoras.
-- 🌱 Sempre buscando aprender mais, estou explorando novas partes do Python e me atualizando com as tecnologias mais recentes.
+- 🔭 Atualmente, estou desenvolvedor na Rocket.Chat trabalhando na área de Business Systems.
+- 🌱 Sempre buscando aprender mais, estou explorando novas partes do Python e JavaScript, me atualizando com as tecnologias mais recentes.
 
 ## 🏆 Conquistas
 
