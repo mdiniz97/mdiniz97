@@ -3,9 +3,9 @@
 Para versão em português, clique [aqui](https://github.com/mdiniz97/mdiniz97/blob/master/README-pt.md)
 
 # 🚀 About Me
-Hello, I'm Marcos, a Python developer passionate about turning ideas into reality through code. With over 6 years of experience in computer science, I dedicate myself to software development, always seeking to overcome challenges and create solutions that make a difference.
+Hello, I'm Marcos, a Python developer passionate about turning ideas into reality through code. With over 6 years of experience in programming, I dedicate myself to software development and web systems, always seeking to overcome challenges and create solutions that make a difference.
 
-- 🔭 Currently, I'm focused on **freelance projects**, working intensively to create unique and innovative solutions.
+- 🔭 I'm Developer at Rocket.Chat, working on the Operations team, within Business Systems.
 - 🌱 Always eager to learn more, I'm exploring new aspects of Python and staying updated with the latest technologies.
 
 ## 🏆 Achievements
